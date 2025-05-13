@@ -1,4 +1,4 @@
-# Title
+# Ultimate Go Resources
 
 <div align="center">
   
@@ -22,7 +22,7 @@ Let's stay connected! Follow me on social media to stay updated:
 
 In the cloud-free development environment where you can directly start coding.
 
-You can use Gitpod in the cloud  [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DhanushNehru/repo-name/)
+You can use Gitpod in the cloud  [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DhanushNehru/Ultimate-Go-Resources/)
 
 ----
 
