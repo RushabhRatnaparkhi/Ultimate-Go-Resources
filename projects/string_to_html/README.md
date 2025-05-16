@@ -3,5 +3,13 @@
 Converts a string to HTML
 
 ```
-got run main.go > index.html
+go run main.go <give a name>
 ```
+
+### Example
+
+```
+go run main.go Dhanush
+```
+
+- A index.html file will be generated based on the provided template
