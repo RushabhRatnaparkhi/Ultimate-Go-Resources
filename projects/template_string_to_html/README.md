@@ -1,4 +1,4 @@
-### Template string to html
+# Template string to html
 
 This Go program demonstrates how to use the `text/template` package to parse and render template files to the terminal (standard output). It shows how to load multiple template files from a directory and render them individually.
 
@@ -6,7 +6,7 @@ This Go program demonstrates how to use the `text/template` package to parse and
 go run main.go
 ```
 
-## 🔍 Summary of Key Functions
+## Summary of Key Functions
 
 | Function                             | Purpose                                                                 |
 |--------------------------------------|-------------------------------------------------------------------------|
@@ -17,11 +17,12 @@ go run main.go
 | `os.Stdout`                          | Outputs the rendered template to the console.                          |
 
 
-## 🛡️ Notes
+## Notes
 
-- Use the `.gohtml` file extension for your templates.  
-  This is a common Go convention and makes it easier to know which files are templates.
+- Use the `.gohtml` file extension for your templates. This is a common Go convention and makes it easier to know which files are templates.
 
-- If something goes wrong while loading a template (like a typo or missing file),  
-  `template.Must` will stop the program right away and show an error.  
-  This helps catch problems early before the program runs too far.
+- If something goes wrong while loading a template (like a typo or missing file), `template.Must` will stop the program right away and show an error. This helps catch problems early before the program runs too far.
+
+## Sample Output
+
+![Template String to HTML Screenshot](https://github.com/user-attachments/assets/5649a012-2a2e-46a8-be4a-23be4bb78fa3)
