@@ -23,6 +23,11 @@ This pattern is helpful when:
 - Creating email templates
 - Generating text or configuration files dynamically
 
+## Output
+<img width="485" alt="Screenshot of Template String Pass Value to HTML" src="https://github.com/user-attachments/assets/78b0ed2d-b75a-4f8a-b296-8c73facc61fe" />
+
+
+
 --------
 
  **Template Package** : https://pkg.go.dev/text/template#pkg-index
