@@ -11,6 +11,12 @@
 # 📖 Documentation
 - 🔗 Official GoLang Docs: [Go Dev](https://go.dev/)
 
+## 📁 Available Projects
+- [cards](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/cards): A simple Go program that defines a new custom type deck (a slice of strings) representing a deck of playing cards. It demonstrates creating, populating, and printing the deck using nested loops and receiver functions.
+- [string_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/string_to_html): Converts a plain string into an HTML document using Go and writes the output to a file.
+- [template_string_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_string_to_html): Defines an HTML template as a raw string in the Go file and renders it with inserted data.
+- [template_string_pass_value_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_string_pass_value_to_html): Passes a string value into an external HTML template and renders it dynamically using Go templates.
+
 ### Connect With Me
 
 Let's stay connected! Follow me on social media to stay updated:
