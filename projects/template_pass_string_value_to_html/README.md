@@ -1,4 +1,4 @@
-# Template String Pass Value to HTML
+# Template Pass String Value to HTML
 
 This example demonstrates how to pass a string value from a Go program into an HTML template using Go's `text/template` package.
 
