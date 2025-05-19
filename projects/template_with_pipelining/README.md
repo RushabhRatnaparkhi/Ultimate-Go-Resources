@@ -38,7 +38,7 @@ This applies the `functionDouble` function to the input.
 This chains two functions together:
 
 1. `functionDouble(64)` → `64 * 2 = 128`  
-2. `functionSquare(128)` → `128^2 =
+2. `functionSquare(128)` → `128^2 = 16384`
 
 **Output:**  
 16384
