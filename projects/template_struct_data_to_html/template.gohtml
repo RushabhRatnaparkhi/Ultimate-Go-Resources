@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Animals & Habitats</title>
+</head>
+<body>
+
+<h2>Animals</h2>
+<ul>
+    {{range .Animals}}
+    <li><strong>{{.Name}}</strong> - Sound: {{.Sound}}</li>
+    {{end}}
+</ul>
+
+<h2>Habitats</h2>
+<ul>
+    {{range .Habitats}}
+    <li><strong>{{.Location}}</strong> - Type: {{.Type}}, Climate: {{.Climate}}</li>
+    {{end}}
+</ul>
+
+</body>
+</html>
