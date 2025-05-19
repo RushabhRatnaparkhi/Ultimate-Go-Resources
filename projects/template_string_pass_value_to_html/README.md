@@ -3,10 +3,13 @@
 This example demonstrates how to pass a string value from a Go program into an HTML template using Go's `text/template` package.
 
 ## What It Does
-- Parses an HTML template file (`.gohtml`)
-- Passes a string value (`"awesome"`)
-- Injects that value into the HTML using Go template syntax
-- Renders the output to the terminal (or browser, if wired into a web server)
+
+- Parses all `.gohtml` files inside the `templates` directory
+- Executes two templates:
+  - **`template.gohtml`**: Injects a single string value (`"awesome"`)
+  - **`looptemplate.gohtml`**: Injects a slice of strings (`["good", "bad", "ugly"]`)
+- Uses Go template syntax to insert the data into the HTML
+- Renders the output to the terminal (or a browser if connected to a web server)
 
 
 ## 🚀 Run the Code
@@ -24,9 +27,8 @@ This pattern is helpful when:
 - Generating text or configuration files dynamically
 
 ## Output
-<img width="485" alt="Screenshot of Template String Pass Value to HTML" src="https://github.com/user-attachments/assets/78b0ed2d-b75a-4f8a-b296-8c73facc61fe" />
 
-
+![Screenshot of Template String Pass Value to HTMLM](https://github.com/user-attachments/assets/4d1ffdc5-7816-4fc2-82b9-a6c181ef63e9)
 
 --------
 
