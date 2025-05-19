@@ -17,6 +17,8 @@
 - [template_string_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_string_to_html): Defines an HTML template as a raw string in the Go file and renders it with inserted data.
 - [template_pass_string_value_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_pass_string_value_to_html): Passes a string value into an external HTML template and renders it dynamically using Go templates.
 - [template_struct_data_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_struct_data_to_html): Demonstrates how to pass structured data (using Go structs and slices) into an external HTML template and render dynamic content using Go’s text/template package.
+- [template_with_custom_functions_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_with_custom_functions_to_html): Demonstrates how to register and use custom functions in Go templates to manipulate and display structured data dynamically.
+
 
 ### Connect With Me
 
