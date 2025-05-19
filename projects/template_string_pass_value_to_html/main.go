@@ -25,4 +25,13 @@ func main() {
 	if err != nil {
 		log.Fatalln(err) // Log the error and exit the program
 	}
+
+	// Execute the template named "looptemplate.gohtml"
+	// Passing the list as data into the template
+	feelings := []string{"good","bad", "ugly"}
+
+	err = tpl.ExecuteTemplate(os.Stdout, "looptemplate.gohtml" , feelings)
+	if err != nil {
+		log.Fatalln(err) // Log the error and exit the program
+	}
 }

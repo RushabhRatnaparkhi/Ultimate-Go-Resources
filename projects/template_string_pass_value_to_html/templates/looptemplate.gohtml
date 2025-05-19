@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Hello World!</title>
+</head>
+<body>
+	{{range .}}
+	{{ $good := . }}
+	<h1>You are: {{ $good }}</h1>
+	{{end}}
+</body>
+</html>
