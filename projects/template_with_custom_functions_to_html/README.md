@@ -32,3 +32,7 @@ go run main.go
 
 - https://pkg.go.dev/text/template#Must
 - https://pkg.go.dev/text/template#Template.Funcs
+
+## Output
+
+<img width="484" alt="Screenshot 2025-05-19 at 8 25 55 PM" src="https://github.com/user-attachments/assets/327531c6-7150-4cd4-9871-b0fd80e26b26" />
