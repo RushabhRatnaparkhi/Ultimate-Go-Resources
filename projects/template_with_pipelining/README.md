@@ -55,3 +55,5 @@ This chains three functions together:
 128
 
 ## Output
+
+<img width="385" alt="Template with Pipelining Output Screenshot" src="https://github.com/user-attachments/assets/db0b4a35-54d6-405b-b4b6-76f08d5386a4" />
