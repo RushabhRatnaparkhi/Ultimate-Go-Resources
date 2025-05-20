@@ -17,3 +17,7 @@ Make sure you're in the `template_safe_html_rendering/` directory and run:
 ```bash
 go run main.go > index.html
 ```
+
+## Output
+
+![Template Safe HTML Rendering Screenshot](https://github.com/user-attachments/assets/98271de5-c6b6-419d-a176-51ad65510119)
