@@ -19,6 +19,7 @@
 - [template_struct_data_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_struct_data_to_html): Demonstrates how to pass structured data (using Go structs and slices) into an external HTML template and render dynamic content using Go’s text/template package.
 - [template_with_custom_functions_to_html](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_with_custom_functions_to_html): Demonstrates how to register and use custom functions in Go templates to manipulate and display structured data dynamically.
 - [template_with_pipelining](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_with_pipelining): Demonstrates using function pipelines in Go templates to transform and render data step-by-step with custom functions.
+- [template_safe_html_rendering](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_safe_html_rendering): Demonstrates safe rendering of dynamic user input in Go templates using the `html/template` package, which automatically escapes potentially dangerous content to prevent XSS attacks.
 
 ### Connect With Me
 
