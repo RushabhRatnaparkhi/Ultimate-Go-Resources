@@ -26,6 +26,9 @@
 - [tcp_echo_server_with_concurrency](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_echo_server_with_concurrency): A concurrent TCP server in Go that listens on port 8080 and reads text input from clients line-by-line. Demonstrates handling multiple client connections using goroutines and reading data from network streams with `bufio.Scanner`.
 - [tcp_echo_response_server](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_echo_response_server): A concurrent TCP server in Go that listens on port 8080, reads input from clients line-by-line, and sends back a custom echoed response. Demonstrates bidirectional communication using `bufio.Scanner` and `fmt.Fprintf`, along with concurrent connection handling using goroutines.
 
+- [tcp_rot13_server](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_rot13_server): A concurrent TCP server in Go that listens on port 8080, reads input from clients, converts it to lowercase, and sends back a ROT13-transformed response. Demonstrates text transformation, bidirectional communication using `bufio.Scanner` and `fmt.Fprintf`, and concurrent client handling using goroutines.
+
+
 ### Connect With Me
 
 Let's stay connected! Follow me on social media to stay updated:
