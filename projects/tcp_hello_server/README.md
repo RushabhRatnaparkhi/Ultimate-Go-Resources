@@ -15,4 +15,4 @@ nc localhost 8080
 ```
 
 ## Output
-
+<img width="1288" alt="Output Screenshot of tcp hello server" src="https://github.com/user-attachments/assets/ae1a738d-4aef-401e-96d5-6146b9c8a5ce" />
