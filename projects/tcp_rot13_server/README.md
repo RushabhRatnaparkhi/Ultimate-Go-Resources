@@ -30,3 +30,6 @@ A concurrent TCP server written in Go that listens on port `8080`, accepts input
 ---
 
 ## Output
+
+<img width="894" alt="Screenshot of Output of TCP rot13 transformation server" src="https://github.com/user-attachments/assets/548cd597-a2fe-4105-9f20-8bb7118e64de" />
+
