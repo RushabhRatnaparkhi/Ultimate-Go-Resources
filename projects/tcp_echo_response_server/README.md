@@ -28,3 +28,4 @@ A TCP server in Go that listens on port `8080`, reads client input line-by-line,
 
 ## Output
 
+<img width="1070" alt="Screenshot Output of tcp echo response server" src="https://github.com/user-attachments/assets/4461d00c-f8a4-43fb-8041-bfbcb863afd5" />
