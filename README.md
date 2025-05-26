@@ -24,7 +24,7 @@
 
 - [tcp_hello_server](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_hello_server): A simple TCP server in Go that listens on port 8080 and sends a greeting message to any client that connects. Demonstrates basic use of the `net` package for creating TCP servers and handling connections.
 - [tcp_echo_server_with_concurrency](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_echo_server_with_concurrency): A concurrent TCP server in Go that listens on port 8080 and reads text input from clients line-by-line. Demonstrates handling multiple client connections using goroutines and reading data from network streams with `bufio.Scanner`.
-
+- [tcp_echo_response_server](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_echo_response_server): A concurrent TCP server in Go that listens on port 8080, reads input from clients line-by-line, and sends back a custom echoed response. Demonstrates bidirectional communication using `bufio.Scanner` and `fmt.Fprintf`, along with concurrent connection handling using goroutines.
 
 ### Connect With Me
 
