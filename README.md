@@ -21,6 +21,10 @@
 - [template_with_pipelining](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_with_pipelining): Demonstrates using function pipelines in Go templates to transform and render data step-by-step with custom functions.
 - [template_safe_html_rendering](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/template_safe_html_rendering): Demonstrates safe rendering of dynamic user input in Go templates using the `html/template` package, which automatically escapes potentially dangerous content to prevent XSS attacks.
 
+
+- [tcp_hello_server](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_hello_server): A simple TCP server in Go that listens on port 8080 and sends a greeting message to any client that connects. Demonstrates basic use of the `net` package for creating TCP servers and handling connections.
+
+
 ### Connect With Me
 
 Let's stay connected! Follow me on social media to stay updated:
