@@ -10,6 +10,8 @@
 
 # 📖 Documentation
 - 🔗 Official GoLang Docs: [Go Dev](https://go.dev/)
+- [Go Tour](https://go.dev/tour/welcome/1)
+- [Go Packages](https://pkg.go.dev/)
 
 ## 📁 Available Projects
 - [cards](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/cards): A simple Go program that defines a new custom type deck (a slice of strings) representing a deck of playing cards. It demonstrates creating, populating, and printing the deck using nested loops and receiver functions.
