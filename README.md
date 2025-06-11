@@ -32,6 +32,10 @@
 
 - [photo_blog](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/photo_blog): A simple web application in Go that allows users to upload image files via an HTML form, which are saved with a SHA1-hashed filename. Uploaded images are stored in the `public/pics` directory and displayed back to the user based on session-tracked cookies.
 
+- [hmac_hash](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/hmac_hash): A simple Go program that demonstrates generating an HMAC using SHA-256. It takes input strings (e.g., email addresses) and returns a secure, consistent hash using a secret key. Illustrates the use of `crypto/hmac`, `crypto/sha256`, and `io.WriteString` for keyed hashing.
+- [base64_encoder](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/base64_encoder): A simple Go program that demonstrates Base64 encoding and decoding of a plain text message using Go's `encoding/base64` package. Shows how to convert strings to Base64 format and decode them back, with basic error handling using `log.Fatalln`.
+
+
 ### Connect With Me
 
 Let's stay connected! Follow me on social media to stay updated:
