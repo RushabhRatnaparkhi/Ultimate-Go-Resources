@@ -30,7 +30,7 @@
 
 - [tcp_rot13_server](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/tcp_rot13_server): A concurrent TCP server in Go that listens on port 8080, reads input from clients, converts it to lowercase, and sends back a ROT13-transformed response. Demonstrates text transformation, bidirectional communication using `bufio.Scanner` and `fmt.Fprintf`, and concurrent client handling using goroutines.
 
-- [photo_blog](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/photo_blog): A simple web application in Go that allows users to upload image files via an HTML form. Uploaded images are saved with a SHA1-hashed filename and tracked per user session using cookies. Demonstrates file handling, HTTP request parsing, template rendering and session management
+- [photo_blog](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/photo_blog): A simple web application in Go that allows users to upload image files via an HTML form, which are saved with a SHA1-hashed filename. Uploaded images are stored in the `public/pics` directory and displayed back to the user based on session-tracked cookies.
 
 ### Connect With Me
 
