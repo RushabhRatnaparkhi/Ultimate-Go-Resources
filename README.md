@@ -35,6 +35,7 @@
 - [hmac_hash](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/hmac_hash): A simple Go program that demonstrates generating an HMAC using SHA-256. It takes input strings (e.g., email addresses) and returns a secure, consistent hash using a secret key. Illustrates the use of `crypto/hmac`, `crypto/sha256`, and `io.WriteString` for keyed hashing.
 - [base64_encoder](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/base64_encoder): A simple Go program that demonstrates Base64 encoding and decoding of a plain text message using Go's `encoding/base64` package. Shows how to convert strings to Base64 format and decode them back, with basic error handling using `log.Fatalln`.
 
+- [json_marshal_vs_encode](https://github.com/DhanushNehru/YourRepo/tree/main/projects/json_marshal_vs_encode): A simple Go web server that demonstrates the difference between `json.Marshal` and `json.Encoder`. It defines a struct and shows how to convert it to JSON using both methods. Includes endpoints to serve basic HTML, marshal data to JSON, and encode data directly into the HTTP response, with proper headers and error handling.
 
 ### Connect With Me
 
