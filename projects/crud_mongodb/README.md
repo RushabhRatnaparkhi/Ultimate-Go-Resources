@@ -16,6 +16,8 @@ Run the application
 go run main.go
 ```
 
+---
+
 ### 🔹 Get User by ID
 
 **Endpoint:** `GET /user/:id`  
