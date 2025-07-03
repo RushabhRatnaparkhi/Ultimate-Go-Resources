@@ -37,6 +37,7 @@
 
 - [json_marshal_vs_encode](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/json_marshal_vs_encode): A simple Go web server that demonstrates the difference between `json.Marshal` and `json.Encoder`. It defines a struct and shows how to convert it to JSON using both methods. Includes endpoints to serve basic HTML, marshal data to JSON, and encode data directly into the HTTP response, with proper headers and error handling.
 - [json_unmarshal](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/json_unmarshal): A simple Go program that demonstrates how to parse a JSON string into nested Go structs using `json.Unmarshal`. It shows how to access nested fields, iterate over slices, and explains the importance of passing a pointer (`&data`) so the unmarshal operation modifies the original variable. Ideal for beginners learning how to handle JSON in Go.
+- [crud_mongodb](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/crud_mongodb): A basic CRUD API built with Go and MongoDB that demonstrates how to connect to a MongoDB instance using the official Go driver. It includes handlers for creating, reading, and deleting user records, with built-in request validation using `go-playground/validator`. The project follows clean structuring with models, controllers, and routing logic, making it a great starting point for developers looking to build RESTful services with MongoDB as the database layer.
 
 
 ### Connect With Me
