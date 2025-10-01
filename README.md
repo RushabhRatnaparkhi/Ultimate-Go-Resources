@@ -16,6 +16,27 @@
 - 🔗 Official GoLang Docs: [Go Dev](https://go.dev/)
 - [Go Tour](https://go.dev/tour/welcome/1)
 - [Go Packages](https://pkg.go.dev/)
+- [Go Blog](https://go.dev/blog/)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Go FAQ](https://go.dev/doc/faq)
+
+## 📚 Learning Resources
+- [Go by Example](https://gobyexample.com/) - Learn Go with annotated example programs
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Learn Go by writing tests
+- [Gophercises](https://gophercises.com/) - Free coding exercises for Go beginners
+- [Go Web Examples](https://gowebexamples.com/) - Learn Go for web development with examples
+- [Ultimate Go Programming](https://www.ardanlabs.com/ultimate-go/) - Professional Go training by Ardan Labs
+
+## 📖 Books
+- [The Go Programming Language](https://www.gopl.io/) - By Alan Donovan & Brian Kernighan
+- [Go in Action](https://www.manning.com/books/go-in-action) - By William Kennedy, Brian Ketelsen & Erik St. Martin
+- [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) - By Katherine Cox-Buday
+- [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) - By Jon Bodner
+
+## 🎥 Video Resources
+- [JustForFunc](https://www.youtube.com/c/JustForFunc) - Programming in Go by Francesc Campoy
+- [Gopher Academy](https://www.youtube.com/c/GopherAcademy) - Go conferences and talks
+- [Todd McLeod](https://www.youtube.com/user/toddmcleod) - Go programming tutorials
 
 ## 📁 Available Projects
 - [cards](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/cards): A simple Go program that defines a new custom type deck (a slice of strings) representing a deck of playing cards. It demonstrates creating, populating, and printing the deck using nested loops and receiver functions.
@@ -43,6 +64,40 @@
 - [json_unmarshal](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/json_unmarshal): A simple Go program that demonstrates how to parse a JSON string into nested Go structs using `json.Unmarshal`. It shows how to access nested fields, iterate over slices, and explains the importance of passing a pointer (`&data`) so the unmarshal operation modifies the original variable. Ideal for beginners learning how to handle JSON in Go.
 - [crud_mongodb](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/crud_mongodb): A basic CRUD API built with Go and MongoDB that demonstrates how to connect to a MongoDB instance using the official Go driver. The project follows clean structuring with models, controllers, and routing logic, making it a great starting point for developers looking to build RESTful services with MongoDB as the database layer.
 - [crud_postgres](https://github.com/DhanushNehru/Ultimate-Go-Resources/tree/main/projects/crud_postgres): A simple CRUD API built with Go and PostgreSQL that demonstrates how to connect to a PostgreSQL database using the `database/sql` package and `lib/pq` driver. The project uses a clean folder structure with separate `models` and `controllers`, and includes standard RESTful routes for creating, reading, updating, and deleting user records. Ideal for developers who want to learn how to build robust backend services with PostgreSQL as the relational data layer.
+
+## 🛠️ Tools & Libraries
+- [Gin](https://github.com/gin-gonic/gin) - Fast HTTP web framework written in Go
+- [Echo](https://github.com/labstack/echo) - High performance, extensible web framework
+- [GORM](https://gorm.io/) - The fantastic ORM library for Golang
+- [Cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [Logrus](https://github.com/sirupsen/logrus) - Structured logger for Go
+- [Testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks
+- [Gorilla Mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher
+- [Resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+
+## 🌟 Open Source Projects
+- [Kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+- [Docker](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem
+- [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database
+- [Hugo](https://github.com/gohugoio/hugo) - The world's fastest framework for building websites
+- [Grafana](https://github.com/grafana/grafana) - The open observability platform
+- [Terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create and manage infrastructure
+- [Consul](https://github.com/hashicorp/consul) - Consul is a distributed service mesh to connect, secure, and configure services
+- [Vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [Etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+- [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database
+
+## 📝 Blogs & Articles
+- [The Go Blog](https://go.dev/blog/) - Official Go team blog with insights and updates
+- [Dave Cheney's Blog](https://dave.cheney.net/) - Go best practices and performance insights
+- [Ardan Labs Blog](https://www.ardanlabs.com/blog/) - Go training and development articles
+- [Golang Weekly](https://golangweekly.com/) - Weekly newsletter about the Go programming language
+
+## 🎪 Community
+- [Go Forum](https://forum.golangbridge.org/) - The Go community forum
+- [Gophers Slack](https://gophers.slack.com/) - Join via invite.slack.golangbridge.org
+- [r/golang](https://www.reddit.com/r/golang/) - Reddit Go community
+- [GopherCon](https://www.gophercon.com/) - Annual Go conference
 
 
 ### Connect With Me
